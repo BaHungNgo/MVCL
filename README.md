@@ -33,3 +33,10 @@ The dataset split files of office or office_home are stored as follows,
 `./data/txt/office/labeled_source_images_amazon.txt`,
 
 `./data/txt/office_home/unlabeled_target_images_Art_3.txt`,
+
+## Citation
+If you find this project useful for your research, please kindly cite our paper:
+
+
+```
+
