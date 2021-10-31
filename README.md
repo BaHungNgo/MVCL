@@ -4,9 +4,7 @@
 
 ## Data preparation (DomainNet)
 The data processing follows the protocol of [MME](https://github.com/VisionLearningGroup/SSDA_MME).
-To get data, run
-
-`sh download_data.sh`
+ 
 
 The images will be stored in the following way.
 
