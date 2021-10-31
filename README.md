@@ -1,5 +1,4 @@
-# Multi-view-Collaborative-Learning-for-Semi-Supervised-Domain-Adaptation
-
+# MVCL
 ## pip install -r requirements.txt
 
 ## Data preparation (We implement the proposed method on four datasets)
