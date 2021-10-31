@@ -3,7 +3,7 @@
 ## pip install -r requirements.txt
 
 ## Data preparation (We implement the proposed method on four datasets)
-Office-31.(https://www.cc.gatech.edu/~judy/domainadapt/#datasets_code),
+.[Office-31].(https://www.cc.gatech.edu/~judy/domainadapt/#datasets_code).,
 Office-Home,
 VisDa2017, 
 and DomainNet
